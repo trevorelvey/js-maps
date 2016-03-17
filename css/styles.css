@@ -1,0 +1,10 @@
+body {
+  background-color: black;
+  padding: 50px;
+}
+
+#googleMap {
+  width: 1200px;
+  height: 1000px;
+  border-radius: 25px;
+}
